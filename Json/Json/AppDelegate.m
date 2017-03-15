@@ -14,6 +14,9 @@
 
 @implementation AppDelegate
 
+-(void)ese{
+    
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -26,9 +29,9 @@
     
     [self.window makeKeyAndVisible];
     
-    NSLog(@"我爱你");
-    NSLog(@"你爱我");
+
     
+
     return YES;
 }
 
