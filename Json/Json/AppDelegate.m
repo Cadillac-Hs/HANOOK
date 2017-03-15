@@ -14,6 +14,9 @@
 
 @implementation AppDelegate
 
+-(void)ese{
+    
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -25,6 +28,9 @@
     self.window.rootViewController = nav;
     
     [self.window makeKeyAndVisible];
+    
+    
+    NSLog(@"wwww.com");
     
     return YES;
 }
