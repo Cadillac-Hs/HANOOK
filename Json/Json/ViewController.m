@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    
+    NSLog(@"获取文件路径");
     //获取文件路径
     NSString *filePath = [[NSBundle mainBundle]pathForResource:@"scource"ofType:@"json"];
     

@@ -26,6 +26,9 @@
     
     [self.window makeKeyAndVisible];
     
+    NSLog(@"我爱你");
+    NSLog(@"你爱我");
+    
     return YES;
 }
 

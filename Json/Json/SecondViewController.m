@@ -20,7 +20,7 @@
     self.view.backgroundColor = [UIColor redColor];
     
     self.title = @"主标题";
-    
+    NSLog(@"");
     [CFRunLoopTool addTask:^{
         
         
