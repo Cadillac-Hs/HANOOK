@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0a7af3d5-e0a0-49f0-a3fa-7af6192c7e90++3071",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0a7af3d5-e0a0-49f0-a3fa-7af6192c7e90++3071" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0a7af3d5-e0a0-49f0-a3fa-7af6192c7e90++3071" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3AEA5386-7C7D-4D36-BEC5-C21ED3C61348",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0a7af3d5-e0a0-49f0-a3fa-7af6192c7e90++3071" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Json",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SchoolHelper\/Json\/Json.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.witaction.com\/EntranceGuard",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0a7af3d5-e0a0-49f0-a3fa-7af6192c7e90++3071"
+    }
+  ]
+}
