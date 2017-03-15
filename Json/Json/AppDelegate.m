@@ -29,6 +29,7 @@
     
     [self.window makeKeyAndVisible];
     
+    int a ;
     
     NSLog(@"wwww.com");
     
